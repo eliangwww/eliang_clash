@@ -1,234 +1,187 @@
-﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-158.180.12.13,443,443,true,FRA,Europe,Frankfurt,184,9.56
-144.21.38.215,443,443,true,FRA,Europe,Frankfurt,181,9.54
-79.72.89.184,443,443,true,FRA,Europe,Frankfurt,176,9.51
-141.147.83.167,443,443,true,FRA,Europe,Frankfurt,187,9.50
-138.2.172.67,443,443,true,FRA,Europe,Frankfurt,179,9.49
-158.178.157.219,443,443,true,FRA,Europe,Frankfurt,173,9.43
-143.47.243.33,443,443,true,FRA,Europe,Frankfurt,174,9.42
-89.168.113.234,443,443,true,FRA,Europe,Frankfurt,172,9.42
-138.2.159.46,443,443,true,FRA,Europe,Frankfurt,174,9.41
-84.8.145.70,443,443,true,FRA,Europe,Frankfurt,176,9.40
-144.21.37.57,443,443,true,FRA,Europe,Frankfurt,177,9.40
-144.21.56.207,443,443,true,FRA,Europe,Frankfurt,189,9.38
-84.235.165.81,443,443,true,FRA,Europe,Frankfurt,181,9.36
-150.230.127.249,443,443,true,FRA,Europe,Frankfurt,197,9.34
-158.101.209.63,443,443,true,FRA,Europe,Frankfurt,179,9.34
-143.47.180.9,443,443,true,FRA,Europe,Frankfurt,178,9.33
-138.2.154.193,443,443,true,FRA,Europe,Frankfurt,179,9.33
-84.235.171.150,443,443,true,FRA,Europe,Frankfurt,175,9.28
-79.72.64.151,443,443,true,FRA,Europe,Frankfurt,202,9.25
-193.123.63.181,443,443,true,FRA,Europe,Frankfurt,188,9.24
-143.47.253.175,443,443,true,FRA,Europe,Frankfurt,178,9.23
-141.148.238.135,443,443,true,FRA,Europe,Frankfurt,178,9.22
-152.67.135.35,443,443,true,FRA,Europe,Frankfurt,188,9.22
-141.144.199.94,443,443,true,FRA,Europe,Frankfurt,192,9.18
-144.21.51.15,443,443,true,FRA,Europe,Frankfurt,180,9.18
-152.67.146.122,443,443,true,FRA,Europe,Frankfurt,175,9.14
-79.72.75.75,443,443,true,FRA,Europe,Frankfurt,209,9.13
-130.162.176.5,443,443,true,FRA,Europe,Frankfurt,178,9.12
-158.180.58.224,443,443,true,FRA,Europe,Frankfurt,179,9.09
-130.162.184.96,443,443,true,FRA,Europe,Frankfurt,170,9.09
-143.47.188.214,443,443,true,FRA,Europe,Frankfurt,214,9.06
-144.24.179.53,443,443,true,FRA,Europe,Frankfurt,161,9.04
-89.168.103.58,443,443,true,FRA,Europe,Frankfurt,192,9.00
-130.61.10.1,443,443,true,FRA,Europe,Frankfurt,183,8.99
-138.2.168.109,443,443,true,FRA,Europe,Frankfurt,184,8.98
-79.72.65.42,443,443,true,FRA,Europe,Frankfurt,195,8.97
-158.178.152.48,443,443,true,FRA,Europe,Frankfurt,176,8.95
-138.3.243.53,443,443,true,FRA,Europe,Frankfurt,171,8.91
-141.144.194.67,443,443,true,FRA,Europe,Frankfurt,186,8.83
-141.147.1.19,443,443,true,FRA,Europe,Frankfurt,171,8.83
-141.147.65.95,443,443,true,FRA,Europe,Frankfurt,218,8.79
-144.21.43.155,443,443,true,FRA,Europe,Frankfurt,177,8.75
-144.21.56.246,443,443,true,FRA,Europe,Frankfurt,177,8.74
-141.144.204.101,443,443,true,FRA,Europe,Frankfurt,179,8.74
-141.147.39.22,443,443,true,FRA,Europe,Frankfurt,171,8.73
-141.148.236.106,443,443,true,FRA,Europe,Frankfurt,181,8.72
-79.72.81.239,443,443,true,FRA,Europe,Frankfurt,211,8.69
-84.8.153.195,443,443,true,FRA,Europe,Frankfurt,217,8.64
-152.70.51.20,443,443,true,FRA,Europe,Frankfurt,183,8.61
-158.178.149.207,443,443,true,FRA,Europe,Frankfurt,181,8.56
-143.47.224.98,443,443,true,FRA,Europe,Frankfurt,198,8.55
-158.101.219.188,443,443,true,FRA,Europe,Frankfurt,188,8.52
-152.70.60.163,443,443,true,FRA,Europe,Frankfurt,186,8.43
-141.147.83.45,443,443,true,FRA,Europe,Frankfurt,193,8.42
-131.186.22.123,443,443,true,ICN,Asia Pacific,Seoul,102,8.38
-89.168.112.118,8443,443,true,FRA,Europe,Frankfurt,182,8.38
-84.8.152.59,443,443,true,FRA,Europe,Frankfurt,191,8.34
-144.24.163.17,443,443,true,FRA,Europe,Frankfurt,159,8.32
-84.235.165.57,443,443,true,FRA,Europe,Frankfurt,176,8.32
-152.70.57.42,443,443,true,FRA,Europe,Frankfurt,178,8.29
-141.144.255.45,443,443,true,FRA,Europe,Frankfurt,152,8.29
-164.152.26.70,2052,443,true,ORD,North America,Chicago,208,8.25
-144.21.32.44,443,443,true,FRA,Europe,Frankfurt,169,8.21
-150.230.117.176,443,443,true,FRA,Europe,Frankfurt,195,8.18
-144.24.243.207,443,443,true,ZRH,Europe,Zurich,160,8.18
-84.8.147.98,443,443,true,FRA,Europe,Frankfurt,179,8.14
-141.144.200.36,443,443,true,FRA,Europe,Frankfurt,185,8.11
-64.181.240.173,443,443,true,SJC,North America,San Jose,213,8.01
-158.101.207.163,443,443,true,FRA,Europe,Frankfurt,165,7.93
-84.235.165.39,443,443,true,FRA,Europe,Frankfurt,180,7.88
-141.147.52.40,443,443,true,FRA,Europe,Frankfurt,188,7.82
-193.123.61.97,443,443,true,FRA,Europe,Frankfurt,168,7.81
-130.61.181.61,2096,443,true,FRA,Europe,Frankfurt,182,7.75
-130.61.239.203,443,443,true,FRA,Europe,Frankfurt,165,7.73
-89.168.106.169,443,443,true,FRA,Europe,Frankfurt,153,7.68
-132.226.132.199,443,443,true,FRA,Europe,Frankfurt,175,7.68
-141.147.82.167,443,443,true,FRA,Europe,Frankfurt,195,7.66
-138.2.160.176,443,443,true,FRA,Europe,Frankfurt,167,7.64
-130.162.55.251,443,443,true,FRA,Europe,Frankfurt,152,7.63
-130.162.191.117,443,443,true,FRA,Europe,Frankfurt,168,7.60
-144.24.161.142,8443,443,true,FRA,Europe,Frankfurt,175,7.57
-130.61.195.167,443,443,true,FRA,Europe,Frankfurt,154,7.54
-130.162.166.66,443,443,true,FRA,Europe,Frankfurt,182,7.52
-130.61.181.61,8443,443,true,FRA,Europe,Frankfurt,169,7.47
-164.152.26.70,2086,443,true,ORD,North America,Chicago,202,7.45
-141.148.241.108,443,443,true,FRA,Europe,Frankfurt,169,7.42
-158.178.145.153,443,443,true,FRA,Europe,Frankfurt,165,7.41
-192.9.137.193,8443,443,true,SJC,North America,San Jose,217,7.36
-192.9.138.241,443,443,true,SJC,North America,San Jose,202,7.34
-141.147.70.212,443,443,true,FRA,Europe,Frankfurt,189,7.31
-152.70.123.225,8443,443,true,SJC,North America,San Jose,213,7.30
-158.178.157.213,443,443,true,FRA,Europe,Frankfurt,179,7.25
-132.145.54.84,2053,443,true,LHR,Europe,London,164,7.25
-129.146.248.140,443,443,true,LAX,North America,Los Angeles,184,7.21
-89.168.112.118,2053,443,true,FRA,Europe,Frankfurt,170,7.16
-130.162.247.127,443,443,true,FRA,Europe,Frankfurt,153,7.14
-158.101.205.24,443,443,true,FRA,Europe,Frankfurt,179,7.14
-141.144.192.112,443,443,true,FRA,Europe,Frankfurt,165,7.10
-165.1.79.60,8443,443,true,SJC,North America,San Jose,188,7.09
-130.61.239.203,2053,443,true,FRA,Europe,Frankfurt,160,6.90
-129.80.26.68,443,443,true,IAD,North America,Ashburn,243,6.82
-204.216.105.106,8443,8443,true,YUL,North America,Montréal,254,6.80
-141.145.205.115,8443,8443,true,CDG,Europe,Paris,165,6.75
-40.233.70.7,8443,443,true,YYZ,North America,Toronto,232,6.61
-158.180.62.140,443,443,true,FRA,Europe,Frankfurt,167,6.60
-193.123.59.110,443,443,true,FRA,Europe,Frankfurt,202,6.60
-144.21.53.194,443,443,true,FRA,Europe,Frankfurt,191,6.53
-143.47.178.6,443,443,true,FRA,Europe,Frankfurt,167,6.51
-89.168.112.118,2096,443,true,FRA,Europe,Frankfurt,188,6.50
-158.178.153.80,2096,443,true,AMS,Europe,Amsterdam,180,6.46
-158.179.207.182,8443,443,true,ARN,Europe,Stockholm,186,6.25
-143.47.240.27,443,443,true,FRA,Europe,Frankfurt,203,6.25
-192.9.246.112,8443,443,true,SJC,North America,San Jose,194,6.21
-158.179.207.182,2053,443,true,ARN,Europe,Stockholm,182,6.18
-168.138.162.187,443,443,true,SIN,Asia Pacific,Singapore,4,6.17
-192.9.158.188,443,443,true,SJC,North America,San Jose,209,6.15
-130.61.107.238,8443,443,true,FRA,Europe,Frankfurt,165,6.12
-89.168.122.44,443,443,true,FRA,Europe,Frankfurt,187,6.08
-168.138.165.174,443,443,true,SIN,Asia Pacific,Singapore,1,6.07
-84.8.154.249,443,443,true,FRA,Europe,Frankfurt,178,5.96
-129.154.46.115,443,443,true,HYD,Asia Pacific,Hyderabad,62,5.81
-129.159.241.172,443,443,true,FRA,Europe,Frankfurt,166,5.79
-141.147.190.128,443,443,true,NRT,Asia Pacific,Tokyo,82,5.78
-132.226.6.125,443,443,true,NRT,Asia Pacific,Tokyo,68,5.77
-64.110.104.30,443,443,true,KIX,Asia Pacific,Osaka,72,5.72
-192.9.180.162,443,443,true,SYD,Oceania,Sydney,93,5.62
-143.47.243.144,2053,443,true,LHR,Europe,London,155,5.62
-131.186.60.210,443,443,true,NRT,Asia Pacific,Tokyo,100,5.61
-64.110.103.69,443,443,true,KIX,Asia Pacific,Osaka,71,5.61
-129.146.220.190,443,443,true,LAX,North America,Los Angeles,184,5.54
-158.179.172.95,443,443,true,ICN,Asia Pacific,Seoul,99,5.52
-129.154.59.235,443,443,true,ICN,Asia Pacific,Seoul,153,5.49
-168.138.46.67,443,443,true,KIX,Asia Pacific,Osaka,71,5.48
-131.186.27.112,2096,443,true,ICN,Asia Pacific,Seoul,99,5.44
-132.145.54.84,8443,443,true,LHR,Europe,London,153,5.44
-152.67.198.104,443,443,true,ICN,Asia Pacific,Seoul,109,5.42
-168.138.50.249,443,443,true,KIX,Asia Pacific,Osaka,65,5.36
-140.238.58.181,2053,443,true,NRT,Asia Pacific,Tokyo,68,5.31
-130.61.170.78,443,443,true,FRA,Europe,Frankfurt,182,5.26
-193.122.110.171,443,443,true,NRT,Asia Pacific,Tokyo,95,5.23
-217.142.243.226,443,443,true,KIX,Asia Pacific,Osaka,76,5.22
-159.13.46.42,443,443,true,SYD,Oceania,Sydney,93,5.15
-217.142.133.173,443,443,true,ICN,Asia Pacific,Seoul,169,5.05
-129.80.116.250,443,443,true,IAD,North America,Ashburn,251,5.05
-143.47.242.195,443,443,true,LHR,Europe,London,153,5.02
-193.123.250.209,2087,2096,true,ICN,Asia Pacific,Seoul,145,5.01
-140.238.195.98,443,443,true,SYD,Oceania,Sydney,93,4.99
-152.67.78.184,443,443,true,ZRH,Europe,Zurich,157,4.97
-143.47.243.144,8443,443,true,LHR,Europe,London,174,4.95
-158.101.175.51,2053,443,true,FRA,Europe,Frankfurt,178,4.91
-130.162.226.138,8443,443,true,FRA,Europe,Frankfurt,169,4.87
-84.235.169.234,443,443,true,AMS,Europe,Amsterdam,180,4.84
-138.3.222.33,443,443,true,NRT,Asia Pacific,Tokyo,80,4.82
-129.151.198.3,8443,443,true,ARN,Europe,Stockholm,185,4.79
-141.147.85.167,8443,443,true,LHR,Europe,London,164,4.75
-158.101.199.249,8443,443,true,AMS,Europe,Amsterdam,180,4.75
-141.144.232.159,443,443,true,FRA,Europe,Frankfurt,177,4.68
-152.70.234.188,443,443,true,NRT,Asia Pacific,Tokyo,95,4.63
-158.179.203.23,443,443,true,OSL,Europe,Oslo,180,4.63
-130.162.184.173,443,443,true,LHR,Europe,London,162,4.59
-152.67.233.64,443,443,true,SJC,North America,San Jose,181,4.55
-129.146.242.24,2053,443,true,LAX,North America,Los Angeles,185,4.54
-150.136.240.243,443,443,true,IAD,North America,Ashburn,292,4.52
-89.168.118.76,443,443,true,FRA,Europe,Frankfurt,167,4.52
-141.147.96.40,443,443,true,LHR,Europe,London,161,4.50
-193.122.1.0,2053,443,true,FRA,Europe,Frankfurt,159,4.50
-158.101.141.147,443,443,true,NRT,Asia Pacific,Tokyo,69,4.50
-141.147.47.32,8443,443,true,FRA,Europe,Frankfurt,169,4.45
-129.146.134.77,443,443,true,LAX,North America,Los Angeles,182,4.41
-64.110.101.31,443,443,true,KIX,Asia Pacific,Osaka,66,4.35
-152.70.59.90,8443,443,true,AMS,Europe,Amsterdam,184,4.28
-141.148.242.113,8443,443,true,AMS,Europe,Amsterdam,179,4.22
-146.235.219.98,443,443,true,SJC,North America,San Jose,186,4.22
-146.235.199.30,443,443,true,SJC,North America,San Jose,192,4.18
-129.213.136.180,443,443,true,IAD,North America,Ashburn,295,4.18
-129.159.130.38,443,443,true,CDG,Europe,Paris,180,4.17
-204.216.218.114,443,443,true,MXP,Europe,Milan,248,4.12
-129.153.126.67,443,443,true,LAX,North America,Los Angeles,183,4.08
-146.56.45.187,443,443,true,ICN,Asia Pacific,Seoul,139,4.02
-155.248.196.123,443,443,true,YVR,North America,Vancouver,195,3.96
-129.151.198.3,2053,443,true,ARN,Europe,Stockholm,194,3.88
-155.248.202.141,443,443,true,SJC,North America,San Jose,192,3.83
-168.138.66.11,443,443,true,YUL,North America,Montréal,239,3.74
-150.136.121.64,443,443,true,IAD,North America,Ashburn,242,3.66
-150.230.149.208,443,443,true,FRA,Europe,Frankfurt,170,3.65
-144.24.37.146,443,443,true,LAX,North America,Los Angeles,185,3.64
-193.123.252.170,2053,443,true,ICN,Asia Pacific,Seoul,95,3.50
-192.18.134.28,443,443,true,SJC,North America,San Jose,209,3.48
-158.101.169.13,2053,443,true,FRA,Europe,Frankfurt,182,3.39
-158.178.206.197,8443,443,true,CDG,Europe,Paris,161,3.26
-79.72.75.198,8443,443,true,LHR,Europe,London,153,3.20
-144.22.252.124,443,443,true,GRU,South America,São Paulo,354,3.19
-158.101.175.51,2053,443,true,FRA,Europe,Frankfurt,167,3.11
-89.168.68.57,8443,443,true,FRA,Europe,Frankfurt,189,3.03
-158.178.129.114,8443,443,true,TLV,Middle East,Tel Aviv,195,2.91
-129.146.254.39,443,443,true,LAX,North America,Los Angeles,179,2.86
-158.101.169.13,2053,443,true,FRA,Europe,Frankfurt,170,2.84
-158.178.156.56,8443,443,true,AMS,Europe,Amsterdam,169,2.84
-132.145.152.194,443,443,true,IAD,North America,Ashburn,241,2.84
-89.168.43.31,2053,443,true,CDG,Europe,Paris,157,2.79
-141.144.198.113,2053,443,true,AMS,Europe,Amsterdam,169,2.77
-152.67.44.30,443,443,true,GRU,South America,São Paulo,402,2.69
-140.238.158.238,443,443,true,YYZ,North America,Toronto,242,2.68
-64.110.103.222,2053,443,true,KIX,Asia Pacific,Osaka,86,2.62
-89.168.43.31,8443,443,true,CDG,Europe,Paris,158,2.62
-150.230.20.156,8443,443,true,AMS,Europe,Amsterdam,174,2.60
-158.180.49.11,2053,443,true,FRA,Europe,Frankfurt,176,2.52
-150.230.20.156,2053,443,true,AMS,Europe,Amsterdam,193,2.49
-146.235.211.70,2083,443,true,SJC,North America,San Jose,194,2.46
-129.153.39.213,2053,443,true,IAD,North America,Ashburn,236,2.42
-168.138.141.235,2053,443,true,GRU,South America,São Paulo,356,2.39
-158.180.49.11,8443,443,true,FRA,Europe,Frankfurt,160,2.34
-141.144.198.113,8443,443,true,AMS,Europe,Amsterdam,181,2.23
-129.159.83.88,8443,443,true,IAD,North America,Ashburn,247,2.09
-158.101.169.13,8443,443,true,FRA,Europe,Frankfurt,167,2.08
-146.235.59.153,8443,443,true,GRU,South America,São Paulo,348,2.04
-158.178.206.197,2053,443,true,CDG,Europe,Paris,170,2.03
-193.123.252.170,2083,443,true,ICN,Asia Pacific,Seoul,93,2.02
-64.110.103.222,8443,443,true,KIX,Asia Pacific,Osaka,102,1.91
-89.168.68.57,2053,443,true,FRA,Europe,Frankfurt,183,1.89
-158.178.129.114,2053,443,true,TLV,Middle East,Tel Aviv,198,1.79
-146.235.211.70,2082,443,true,SJC,North America,San Jose,193,1.79
-129.153.39.213,8443,443,true,IAD,North America,Ashburn,224,1.77
-79.72.75.198,2053,443,true,LHR,Europe,London,179,1.77
-140.238.158.238,8080,443,true,YYZ,North America,Toronto,231,1.76
-158.178.156.56,2053,443,true,AMS,Europe,Amsterdam,185,1.64
-158.101.175.51,443,443,true,FRA,Europe,Frankfurt,170,1.63
-152.70.248.96,443,443,true,ICN,Asia Pacific,Seoul,103,1.60
-158.101.169.13,8443,443,true,FRA,Europe,Frankfurt,177,1.43
-129.146.138.227,443,443,true,LAX,North America,Los Angeles,178,1.36
-158.101.141.147,443,443,true,NRT,Asia Pacific,Tokyo,68,1.21
-146.235.59.153,2053,443,true,GRU,South America,São Paulo,406,1.03
-
+IP地址	端口	回源端口	TLS	数据中心	地区	城市	TCP延迟(ms)	速度(MB/s)
+47.237.95.156	8443	8443	TRUE	SIN	Asia Pacific	Singapore	107	4.76
+47.245.86.230	2053	2053	TRUE	SIN	Asia Pacific	Singapore	68	4.75
+47.76.33.40	2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	56	4.75
+47.236.75.152	8443	8443	TRUE	SIN	Asia Pacific	Singapore	76	4.75
+47.242.42.153	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	60	4.74
+47.243.74.220	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	88	4.73
+47.236.10.100	2096	2096	TRUE	SIN	Asia Pacific	Singapore	79	4.73
+47.245.102.52	2053	2053	TRUE	SIN	Asia Pacific	Singapore	51	4.72
+8.218.146.204	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	90	4.72
+8.219.78.1	2096	2096	TRUE	SIN	Asia Pacific	Singapore	44	4.72
+47.236.5.223	8443	8443	TRUE	SIN	Asia Pacific	Singapore	93	4.72
+8.219.40.37	2053	2053	TRUE	SIN	Asia Pacific	Singapore	59	4.71
+8.219.229.190	2083	2083	TRUE	SIN	Asia Pacific	Singapore	50	4.71
+8.218.8.142	2083	2083	TRUE	HKG	Asia Pacific	Hong Kong	122	4.7
+8.222.134.170	2096	2096	TRUE	SIN	Asia Pacific	Singapore	47	4.69
+8.210.107.246	8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	37	4.69
+8.218.126.53	8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	83	4.69
+8.219.77.222	2083	2083	TRUE	SIN	Asia Pacific	Singapore	51	4.68
+8.219.237.250	2096	2096	TRUE	SIN	Asia Pacific	Singapore	79	4.68
+8.218.181.189	8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	87	4.67
+8.222.165.117	8443	8443	TRUE	SIN	Asia Pacific	Singapore	95	4.67
+8.219.229.190	8443	8443	TRUE	SIN	Asia Pacific	Singapore	55	4.67
+8.222.249.190	2053	2053	TRUE	SIN	Asia Pacific	Singapore	40	4.67
+47.243.173.187	2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	104	4.65
+8.218.173.78	2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	57	4.65
+47.237.100.206	2087	2087	TRUE	SIN	Asia Pacific	Singapore	55	4.65
+47.237.14.220	2087	2087	TRUE	SIN	Asia Pacific	Singapore	55	4.64
+8.217.147.230	2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	49	4.64
+8.218.155.238	2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	83	4.63
+47.242.54.157	2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	47	4.62
+47.242.17.250	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	56	4.62
+8.219.114.201	8443	8443	TRUE	SIN	Asia Pacific	Singapore	87	4.62
+47.237.95.146	2096	2096	TRUE	SIN	Asia Pacific	Singapore	110	4.6
+47.237.100.206	2096	2096	TRUE	SIN	Asia Pacific	Singapore	44	4.6
+47.237.84.173	2087	2087	TRUE	SIN	Asia Pacific	Singapore	46	4.59
+8.217.127.73	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	70	4.59
+8.217.154.218	2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	51	4.58
+8.219.210.64	2096	2096	TRUE	SIN	Asia Pacific	Singapore	69	4.57
+8.222.215.228	8443	8443	TRUE	SIN	Asia Pacific	Singapore	97	4.56
+8.217.159.210	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	68	4.56
+8.210.55.134	8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	66	4.55
+8.218.3.12	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	90	4.54
+8.210.100.23	8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	67	4.54
+47.237.86.185	8443	8443	TRUE	SIN	Asia Pacific	Singapore	47	4.53
+47.236.102.102	8443	8443	TRUE	SIN	Asia Pacific	Singapore	77	4.53
+47.236.146.249	2053	2053	TRUE	SIN	Asia Pacific	Singapore	87	4.52
+47.236.237.90	2096	2096	TRUE	SIN	Asia Pacific	Singapore	35	4.52
+47.236.146.249	2096	2096	TRUE	SIN	Asia Pacific	Singapore	67	4.51
+47.238.35.50	2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	76	4.51
+47.245.84.124	2087	2087	TRUE	SIN	Asia Pacific	Singapore	50	4.51
+47.236.5.223	2083	2083	TRUE	SIN	Asia Pacific	Singapore	46	4.5
+8.218.52.115	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	76	4.49
+47.236.144.48	8443	8443	TRUE	SIN	Asia Pacific	Singapore	69	4.49
+8.218.98.75	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	49	4.48
+47.238.5.0	2083	2083	TRUE	HKG	Asia Pacific	Hong Kong	75	4.48
+47.236.144.208	2053	2053	TRUE	SIN	Asia Pacific	Singapore	153	4.48
+8.219.106.156	443	443	TRUE	SIN	Asia Pacific	Singapore	82	4.47
+47.236.83.239	2083	2083	TRUE	SIN	Asia Pacific	Singapore	93	4.47
+47.237.14.220	2083	2083	TRUE	SIN	Asia Pacific	Singapore	48	4.47
+8.210.245.224	2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	97	4.47
+47.245.118.70	2096	2096	TRUE	SIN	Asia Pacific	Singapore	74	4.46
+8.219.237.250	2053	2053	TRUE	SIN	Asia Pacific	Singapore	51	4.45
+8.219.84.214	2083	2083	TRUE	SIN	Asia Pacific	Singapore	84	4.45
+47.243.203.119	2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	98	4.45
+47.243.203.119	2083	2083	TRUE	HKG	Asia Pacific	Hong Kong	59	4.44
+47.243.74.220	2083	2083	TRUE	HKG	Asia Pacific	Hong Kong	48	4.43
+8.217.159.210	8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	59	4.43
+8.219.111.147	2096	2096	TRUE	SIN	Asia Pacific	Singapore	51	4.43
+47.236.145.85	2087	2087	TRUE	SIN	Asia Pacific	Singapore	33	4.43
+47.245.84.124	2083	2083	TRUE	SIN	Asia Pacific	Singapore	50	4.41
+47.237.82.15	2083	2083	TRUE	SIN	Asia Pacific	Singapore	71	4.41
+47.237.95.140	2053	2053	TRUE	SIN	Asia Pacific	Singapore	104	4.4
+47.238.6.102	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	44	4.4
+8.218.188.129	2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	92	4.4
+47.237.82.15	2096	2096	TRUE	SIN	Asia Pacific	Singapore	51	4.4
+8.217.147.230	2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	100	4.39
+47.237.100.206	2053	2053	TRUE	SIN	Asia Pacific	Singapore	4	4.39
+47.245.105.224	2083	2083	TRUE	SIN	Asia Pacific	Singapore	45	4.39
+8.219.77.222	2096	2096	TRUE	SIN	Asia Pacific	Singapore	119	4.38
+8.218.3.12	2083	2083	TRUE	HKG	Asia Pacific	Hong Kong	56	4.38
+47.236.253.41	2087	2087	TRUE	SIN	Asia Pacific	Singapore	35	4.37
+47.242.119.104	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	61	4.37
+47.243.186.171	8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	69	4.36
+8.218.126.53	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	74	4.36
+8.210.245.224	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	38	4.36
+8.222.222.64	2087	2087	TRUE	SIN	Asia Pacific	Singapore	52	4.35
+47.243.206.150	8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	59	4.35
+8.222.180.86	2096	2096	TRUE	SIN	Asia Pacific	Singapore	59	4.35
+8.218.243.95	2083	2083	TRUE	HKG	Asia Pacific	Hong Kong	71	4.34
+8.218.211.17	2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	67	4.34
+8.217.181.213	2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	137	4.34
+47.243.139.85	2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	56	4.33
+47.236.172.95	2087	2087	TRUE	SIN	Asia Pacific	Singapore	90	4.33
+47.242.202.230	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	59	4.32
+47.245.114.163	2087	2087	TRUE	SIN	Asia Pacific	Singapore	34	4.32
+47.237.14.220	8443	8443	TRUE	SIN	Asia Pacific	Singapore	85	4.31
+47.237.92.26	2083	2083	TRUE	SIN	Asia Pacific	Singapore	37	4.31
+47.76.26.26	2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	70	4.3
+47.242.202.230	2083	2083	TRUE	HKG	Asia Pacific	Hong Kong	61	4.3
+47.237.95.146	2083	2083	TRUE	SIN	Asia Pacific	Singapore	66	4.3
+8.219.106.156	2087	2087	TRUE	SIN	Asia Pacific	Singapore	45	4.29
+8.217.66.3	2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	71	4.29
+47.237.84.173	2053	2053	TRUE	SIN	Asia Pacific	Singapore	73	4.27
+47.236.10.182	2083	2083	TRUE	SIN	Asia Pacific	Singapore	65	4.27
+47.245.102.52	2083	2083	TRUE	SIN	Asia Pacific	Singapore	22	4.26
+47.236.75.163	8443	443	TRUE	SIN	Asia Pacific	Singapore	54	4.26
+47.237.94.140	2087	2087	TRUE	SIN	Asia Pacific	Singapore	57	4.25
+47.243.139.85	2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	108	4.25
+8.218.3.198	2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	88	4.25
+47.236.102.102	2053	2053	TRUE	SIN	Asia Pacific	Singapore	71	4.24
+47.76.33.40	2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	70	4.23
+8.222.128.32	443	443	TRUE	SIN	Asia Pacific	Singapore	51	4.23
+47.76.192.24	2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	75	4.23
+8.218.181.189	8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	109	4.22
+8.219.42.72	2053	2053	TRUE	SIN	Asia Pacific	Singapore	48	4.22
+47.237.84.173	8443	8443	TRUE	SIN	Asia Pacific	Singapore	36	4.21
+47.76.80.72	2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	67	4.21
+47.245.102.52	2087	2087	TRUE	SIN	Asia Pacific	Singapore	60	4.21
+47.236.121.23	2083	2083	TRUE	SIN	Asia Pacific	Singapore	66	4.21
+8.218.48.92	2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	78	4.2
+8.222.155.206	443	443	TRUE	SIN	Asia Pacific	Singapore	80	4.2
+47.242.202.230	8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	57	4.2
+47.237.11.182	2096	2096	TRUE	SIN	Asia Pacific	Singapore	45	4.19
+47.245.86.230	2083	2083	TRUE	SIN	Asia Pacific	Singapore	35	4.19
+8.218.3.198	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	99	4.19
+47.237.84.173	2083	2083	TRUE	SIN	Asia Pacific	Singapore	49	4.18
+47.236.167.231	2053	2053	TRUE	SIN	Asia Pacific	Singapore	53	4.18
+47.236.144.208	2096	2096	TRUE	SIN	Asia Pacific	Singapore	113	4.18
+47.245.118.70	2053	2053	TRUE	SIN	Asia Pacific	Singapore	28	4.18
+47.250.155.74	80	443	TRUE	SIN	Asia Pacific	Singapore	36	4.17
+47.243.173.187	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	63	4.17
+8.210.48.107	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	48	4.16
+8.217.181.213	2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	58	4.16
+47.245.96.80	8443	8443	TRUE	SIN	Asia Pacific	Singapore	20	4.16
+47.242.107.109	8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	55	4.15
+47.238.198.21	443	443	TRUE	HKG	Asia Pacific	Hong Kong	66	4.15
+47.250.159.36	80	443	TRUE	SIN	Asia Pacific	Singapore	41	4.15
+47.236.197.190	8443	443	TRUE	SIN	Asia Pacific	Singapore	80	4.15
+47.243.90.180	2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	60	4.15
+47.236.254.120	2096	2096	TRUE	SIN	Asia Pacific	Singapore	21	4.15
+47.245.86.230	443	443	TRUE	SIN	Asia Pacific	Singapore	48	4.14
+47.250.149.42	80	443	TRUE	SIN	Asia Pacific	Singapore	59	4.13
+47.237.121.38	2053	2053	TRUE	SIN	Asia Pacific	Singapore	21	4.13
+8.218.8.142	8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	84	4.13
+47.76.189.102	2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	72	4.12
+47.237.95.140	8443	8443	TRUE	SIN	Asia Pacific	Singapore	85	4.12
+47.250.159.165	80	443	TRUE	SIN	Asia Pacific	Singapore	69	4.12
+47.237.94.140	2053	2053	TRUE	SIN	Asia Pacific	Singapore	22	4.12
+47.250.149.42	80	443	TRUE	SIN	Asia Pacific	Singapore	51	4.12
+8.219.50.180	443	443	TRUE	SIN	Asia Pacific	Singapore	57	4.11
+8.222.128.32	443	443	TRUE	SIN	Asia Pacific	Singapore	109	4.11
+47.76.204.76	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	56	4.1
+47.237.95.146	2053	2053	TRUE	SIN	Asia Pacific	Singapore	29	4.1
+47.76.192.24	2083	2083	TRUE	HKG	Asia Pacific	Hong Kong	50	4.1
+8.219.235.164	2087	2087	TRUE	SIN	Asia Pacific	Singapore	53	4.1
+47.245.86.230	8443	8443	TRUE	SIN	Asia Pacific	Singapore	46	4.1
+8.210.42.171	2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	60	4.09
+47.76.29.115	2083	2083	TRUE	HKG	Asia Pacific	Hong Kong	52	4.09
+47.236.83.239	8443	8443	TRUE	SIN	Asia Pacific	Singapore	91	4.09
+47.243.139.243	8443	8443	TRUE	HKG	Asia Pacific	Hong Kong	97	4.09
+47.76.166.41	443	443	TRUE	HKG	Asia Pacific	Hong Kong	45	4.08
+8.219.103.65	2096	2096	TRUE	SIN	Asia Pacific	Singapore	56	4.07
+47.250.159.165	80	443	TRUE	SIN	Asia Pacific	Singapore	56	4.06
+47.243.243.14	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	49	4.06
+8.219.153.237	2083	2083	TRUE	NRT	Asia Pacific	Tokyo	178	4.06
+47.238.138.232	80	443	TRUE	CGK	Asia Pacific	Jakarta	39	4.05
+47.243.27.217	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	52	4.05
+8.222.169.222	2096	2096	TRUE	SIN	Asia Pacific	Singapore	60	4.05
+8.222.222.64	2087	2087	TRUE	SIN	Asia Pacific	Singapore	50	4.05
+47.236.97.90	8443	8443	TRUE	SIN	Asia Pacific	Singapore	78	4.05
+47.243.243.14	2083	2083	TRUE	HKG	Asia Pacific	Hong Kong	68	4.04
+47.237.95.140	2083	2083	TRUE	SIN	Asia Pacific	Singapore	58	4.04
+47.237.82.15	8443	8443	TRUE	SIN	Asia Pacific	Singapore	68	4.04
+8.219.142.191	8443	8443	TRUE	SIN	Asia Pacific	Singapore	73	4.04
+8.219.84.214	2096	2096	TRUE	SIN	Asia Pacific	Singapore	38	4.04
+47.245.86.230	443	443	TRUE	SIN	Asia Pacific	Singapore	33	4.03
+8.219.153.237	2053	2053	TRUE	NRT	Asia Pacific	Tokyo	142	4.03
+8.218.98.75	2087	2087	TRUE	HKG	Asia Pacific	Hong Kong	46	4.03
+47.243.203.119	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	86	4.03
+47.243.173.187	2053	2053	TRUE	HKG	Asia Pacific	Hong Kong	59	4.02
+47.236.17.193	8443	8443	TRUE	SIN	Asia Pacific	Singapore	72	4.02
+47.237.92.26	2053	2053	TRUE	SIN	Asia Pacific	Singapore	41	4.01
+47.238.5.0	2096	2096	TRUE	HKG	Asia Pacific	Hong Kong	60	4.01
+47.237.94.140	2096	2096	TRUE	SIN	Asia Pacific	Singapore	101	4.01
+47.245.105.224	2096	2096	TRUE	SIN	Asia Pacific	Singapore	56	4
+47.76.166.41	443	443	TRUE	HKG	Asia Pacific	Hong Kong	40	4
