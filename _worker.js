@@ -807,6 +807,36 @@ function subAddresses(host,pw,userAgent,newAddressesapi,newAddressescsv) {
 			addressid = match[3] || address;
 		}
 
+				//🇸🇬 SG：新加坡 🇭🇰 HK：香港 🇰🇷 KR：韩国 🇯🇵 JP：日本 🇬🇧 GB：英国 🇺🇸 US：美国 🇼🇸 TW：台湾
+		if (addressid.includes('CM')) {
+			addressid = addressid;
+		} else if (addressid === 'SG'||addressid === 'SIN') {
+			addressid = '🇸🇬 SG';
+		} else if (addressid === 'HK'||addressid === 'HKG') {
+			addressid = '🇭🇰 HK';
+		} else if (addressid === 'KR'||addressid === 'ICN') {
+			addressid = '🇰🇷 KR';
+		} else if (addressid === 'JP'||addressid === 'NRT') {
+			addressid = '🇯🇵 JP';
+		} else if (addressid === 'FR'||addressid === 'CDG'||addressid === 'FRA') {
+			addressid = '🇫🇷 FR';
+		} else if (addressid === 'GB'||addressid === 'LHR') {
+			addressid = '🇬🇧 GB';
+		} else if (addressid === 'NL'||addressid === 'AMS') {
+			addressid = '🇳🇱 NL';
+		} else if (addressid === 'IN'||addressid === 'BOM') {
+			addressid = '🇮🇳 IN';
+		} else if (addressid === 'US'||addressid === 'LAX'||addressid === 'SEA'||addressid === 'SJC'||addressid === 'DFW'||addressid === 'ORD'||addressid === 'EWR'||addressid === 'IAD') {
+			addressid = '🇺🇸 US';
+		} else if (addressid === 'TW'||addressid === '') {
+			addressid = '🇼🇸 TW';
+		} else if (addressid === 'CF'||addressid === 'SIN') {
+			addressid = '📶 ' + addressid;
+		} else {
+			addressid = '📶 ' + addressid;
+		}
+	
+
 		const httpsPorts = ["2053","2083","2087","2096","8443"];
 		if (!isValidIPv4(address) && port == "443") {
 			for (let httpsPort of httpsPorts) {
