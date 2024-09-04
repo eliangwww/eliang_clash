@@ -1,0 +1,37 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+3.1.116.161,2053,443,true,SIN,Asia Pacific,Singapore,56,7.38
+18.236.77.255,2053,443,true,SEA,North America,Seattle,186,4.07
+13.201.27.214,2053,443,true,BOM,Asia Pacific,Mumbai,158,3.75
+13.232.50.255,2053,443,true,BOM,Asia Pacific,Mumbai,161,3.68
+18.117.232.36,2053,443,true,ORD,North America,Chicago,243,3.12
+146.235.59.153,2053,443,true,GRU,South America,São Paulo,361,2.53
+74.241.233.152,2053,443,true,ARN,Europe,Stockholm,230,2.28
+3.250.120.169,2053,443,true,DUB,Europe,Dublin,225,2.12
+143.47.243.144,2053,443,true,LHR,Europe,London,219,2.09
+52.59.44.105,2053,443,true,FRA,Europe,Frankfurt,235,1.95
+158.178.196.15,2053,443,true,CDG,Europe,Paris,244,1.76
+18.153.249.28,2053,2053,true,FRA,Europe,Frankfurt,230,1.65
+3.123.35.229,2053,443,true,FRA,Europe,Frankfurt,235,1.57
+18.118.124.39,2053,443,true,ORD,North America,Chicago,247,1.40
+193.122.1.,2053,443,true,YUL,North America,Montréal,228,1.33
+141.144.198.113,2053,443,true,AMS,Europe,Amsterdam,236,1.19
+20.215.200.208,2053,443,true,TXL,Europe,Berlin,216,1.08
+13.51.13.209,2053,443,true,ARN,Europe,Stockholm,256,1.06
+89.168.112.118,2053,443,true,ARN,Europe,Stockholm,250,0.99
+3.69.233.212,2053,443,true,FRA,Europe,Frankfurt,230,0.95
+3.66.67.78,2053,443,true,FRA,Europe,Frankfurt,230,0.94
+3.76.210.181,2053,443,true,FRA,Europe,Frankfurt,230,0.89
+16.16.45.85,2053,443,true,ARN,Europe,Stockholm,246,0.86
+18.175.224.91,2053,443,true,LHR,Europe,London,215,0.81
+35.156.134.213,2053,443,true,FRA,Europe,Frankfurt,235,0.80
+16.24.96.56,2053,443,true,FRA,Europe,Frankfurt,323,0.66
+16.171.114.20,2053,443,true,ARN,Europe,Stockholm,251,0.63
+68.221.242.156,2053,443,true,CDG,Europe,Paris,203,0.57
+13.50.181.204,2053,443,true,ARN,Europe,Stockholm,249,0.57
+20.86.144.225,2053,443,true,AMS,Europe,Amsterdam,209,0.56
+15.237.251.37,2053,443,true,CDG,Europe,Paris,238,0.54
+13.37.224.156,2053,443,true,CDG,Europe,Paris,236,0.43
+34.106.175.80,2053,443,true,SLC,North America,Salt Lake City,209,0.35
+150.230.20.156,2053,443,true,AMS,Europe,Amsterdam,280,0.34
+13.38.3.0,2053,443,true,CDG,Europe,Paris,238,0.25
+23.94.95.60,2053,443,true,ATL,North America,Atlanta,227,0.19
